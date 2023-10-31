@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /* Name: Tyson King
- * Title: Wiki Application Database 2.0ff
+ * Title: Wiki Application Database 2.0
  * Description: Database Application that uses Wiki to save data. User has multiple options of control of data 
  * */
 

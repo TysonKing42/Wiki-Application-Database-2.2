@@ -13,7 +13,7 @@ using System.Xml.Linq;
 using System.Diagnostics;
 
 /* Name: Tyson King
- * Title: Wiki Application Database 2.0f
+ * Title: Wiki Application Database 2.0
  * Description: Database Application that uses Wiki to save data. User has multiple options of control of data
  * */
 
